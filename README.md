@@ -19,9 +19,6 @@
   <sub><i>⚡ Always building, experimenting, and shipping. Feel free to star any repos you find useful!</i></sub>
 </p>
 
-# 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedzabee1786@gmail.com) 
-
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -45,7 +42,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohammed-Zabee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
+# 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedzabee1786@gmail.com)
 
 
 
