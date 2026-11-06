@@ -1,7 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Welcome%20to%20my%20Workspace&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
 # 💫 About Me:
 ### ⚡ About Me<br><br>- 🔭 I’m currently working on **NeuroBandage** — an Edge-Neuromorphic smart bandage for wound infection detection.<br>- 🎓 Pursuing my B.Tech in **Computer Science & Engineering (CSE)** at **VIT Vellore**.<br>- 🛠️ Tech Stack: Core focus on **Python**, plus a pinch of **Dart & Flutter** for cross-platform apps.<br>- 🏆 Hackathon Role: Usually the **Frontend Engineer** turning ideas into clean user experiences and fast software prototypes.<br>- 🌱 I’m currently learning deeper mobile development, API integrations, and edge device workflows.<br>- 👯 I’m looking to collaborate on **Open-Source projects, AI integrations, and full-stack software builds**.<br>- 💬 Ask me about UI design workflows, hackathon strategies, or Python automation scripts.<br>- 📫 How to reach me: Connect with me via email.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Welcome%20to%20my%20Workspace&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
 
 ---
 #Developer Quote
